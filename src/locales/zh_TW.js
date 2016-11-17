@@ -1,0 +1,38 @@
+export default {
+  en_US: 'English',
+  ja_JP: '日本語',
+  zh_TW: '繁體中文',
+  shared: {
+    hello: '你好, 世界',
+    statusBar: '狀態列',
+    runAt: '載入時間',
+    clientPath: '客戶端路徑',
+    signedIn: '已登入',
+    notSignedIn: '未登入',
+    find: 'Find',
+    errSingleSel: '此功能只支援單選',
+    errNoSel: '請選擇項目',
+    foundUnsavedItems: '有 {n} 個項目尚未儲存，要取消變更嗎？',
+    todo: '待實作',
+    unsavedMessage: '是否確認要離開此頁面？',
+    unsavedTitle: '改變未儲存',
+  },
+  samples: {
+    hello: '你好範例',
+    helloAjax: '你好 Ajax',
+    language: '語言',
+    elementUi: 'Element UI',
+    elementTable: 'Element Table',
+    underConstruction: 'Under construction',
+    apiExplorer: 'API Explorer',
+    tabs: '分頁',
+    configGroupZero: '設定組 #0',
+    configGroupOne: '設定組 #1',
+    configGroupTwo: '設定組 #2',
+  },
+  el: {
+    select: {
+      noData: 'No data',
+    },
+  },
+};

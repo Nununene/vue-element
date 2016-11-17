@@ -1,0 +1,131 @@
+.grid-title
+{
+  height: 50px
+  padding:10px;
+  vertical-align: middle;
+  margin-top: 5px;
+  margin-left: 5px;
+  background:#cae8f4;
+}
+
+.grid-content
+{
+  height:60px
+  padding:10px;
+  vertical-align: middle;
+}
+
+.bg-purple-dark
+{
+  background:#cae8f4;
+}
+
+.bg-purple-light
+{
+  background:#FFFFFF;
+}
+
+.el-table th
+{
+  background-color:#eff2f7;
+  text-align:left
+}
+.el-table th,.el-table th>div
+{
+  white-space:nowrap;
+  overflow:hidden
+}
+.el-table th>div
+{
+  display:inline-block;
+  padding-left:12px;
+  padding-right:12px;
+  line-height:25px;
+  text-overflow:ellipsis;
+}
+.el-table th>.cell
+{
+  position:relative;
+  word-wrap:normal;
+  text-overflow:ellipsis;
+  display:inline-block;
+  line-height:25px;
+  vertical-align:middle;
+  width:100%;
+  box-sizing:border-box;
+}
+.el-table td .cell
+{
+  box-sizing:border-box;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  line-height:30px;
+  padding-left:12px;
+  padding-right:12px;
+  
+}
+
+.el-input__inner
+{
+  border-color:#8492a6;
+  height: 25px;
+}
+
+.taco-row
+{
+  background:#cae8f4;
+  vertical-align: middle;
+}
+
+.taco-col
+{
+  background:#cae8f4;
+  vertical-align: middle;
+}
+
+.taco-pagination
+{
+  background:#cae8f4;
+}
+
+.taco-button
+{
+  height:35px;
+  width:100px;
+}
+
+.taco-form-input
+{
+  width:98%;
+  height:25px;
+  border-radius:4px #cccccc solid;
+}
+
+.taco-form-select
+{
+  width:98%;
+  height:25px;
+  vertical-align: middle;
+  border-radius:4px #cccccc solid;
+}
+
+.taco-form-item
+{
+  margin:10px 10px 20px 10px;
+}
+
+.taco-table-select
+{
+  background:#cae8f4;
+}
+
+.taco-div-align-center
+{
+  text-align:center;
+}
+
+.taco-dialog-title
+{
+  border-top:1px #cccccc solid;
+  text-align:center;
+}
